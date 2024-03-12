@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coonverter App", "Coonverter App\Coonverter App.csproj", "{DFAFD51D-7360-44D4-A306-0B5D31551E93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAFD51D-7360-44D4-A306-0B5D31551E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAFD51D-7360-44D4-A306-0B5D31551E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAFD51D-7360-44D4-A306-0B5D31551E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAFD51D-7360-44D4-A306-0B5D31551E93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B7B488-2A0B-41C6-9C21-D474D38C30D7}
+	EndGlobalSection
+EndGlobal
